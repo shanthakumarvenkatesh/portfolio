@@ -1,8 +1,6 @@
 import React from "react";
 import url from './images/url.jpg';
 import bms from './images/bookmyshow.png';
-import swipe from './images/swipe.png';
-import hire from './images/hiring.jpg';
 
 function Projects() {
     return (

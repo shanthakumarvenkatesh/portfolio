@@ -18,7 +18,7 @@ function Introduction(){
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1 className="text-light">Hi! <br />I'm Shanthakumar <br/><span className="text-info">Full Stack Web Developer</span></h1>
-                          <p><a className="btn btn-primary text-light btn-learn1" href="https://shanthakumarvenkatesh.github.io/mapsandset/Resume.pdf" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary text-light btn-learn1" href="https://shanthakumarvenkatesh.github.io/mapsandset/Shanthakumar's%20Resume.pdf" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>

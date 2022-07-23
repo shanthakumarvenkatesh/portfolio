@@ -28,7 +28,7 @@ function Nav() {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-              <li><a href="https://shanthakumarvenkatesh.github.io/mapsandset/Resume.pdf" target="_blank" rel="noopener noreferrer">resume</a></li>
+              <li><a href="https://shanthakumarvenkatesh.github.io/mapsandset/Shanthakumar's%20Resume.pdf" target="_blank" rel="noopener noreferrer">resume</a></li>
                 <li><a href="https://www.linkedin.com/in/shanthakumar-venkatesh-8568781b8/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/shanthakumarvenkatesh" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>

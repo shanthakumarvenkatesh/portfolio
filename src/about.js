@@ -10,14 +10,15 @@ function About(){
             <div className="row">
             <div className="col-md-12">
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
-                <div className="col-md-12">
-                    <div className="about-desc">
-                    <span className="heading-meta">About</span>
-                    <h2 className="colorlib-heading">Who Am I?</h2>
-                    <h4>I am a postgraduation student from Er Manimekalai college of engg-Hosur with  7.6 cgpa.</h4>
-                   <h4>I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years </h4>
-                    </div>
-                </div>
+              <div className="col-md-12">
+    <div className="about-desc">
+        <span className="heading-meta">About</span>
+        <h2 className="colorlib-heading">Who Am I?</h2>
+        <h4>I have 2 years of experience in React.js development.</h4>
+        <h4>I love exploring new technologies and am often amazed by the progress we as a human species have made in recent years.</h4>
+    </div>
+</div>
+
                 </div>
             </div>
             </div>

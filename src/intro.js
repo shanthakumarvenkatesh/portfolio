@@ -2,6 +2,8 @@ import React from "react";
 import bg1 from './images/key.jpg';
 import bg2 from './images/bg2.jpg';
 import bg3 from './images/bg3.jpg';
+import Resume from "./images/shantha_kumar.pdf"
+
 
 function Introduction(){
     return (
@@ -18,7 +20,7 @@ function Introduction(){
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1 className="text-light">Hi! <br />I'm Shanthakumar <br/><span className="text-info">Full Stack Web Developer</span></h1>
-                          <p><a className="btn btn-primary text-light btn-learn1" href="https://shanthakumarvenkatesh.github.io/mapsandset/Shanthakumar's%20Resume.pdf" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary text-light btn-learn1" href={Resume} target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>

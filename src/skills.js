@@ -25,16 +25,16 @@ function Skills() {
                                 <h2 className="colorlib-heading animate-box">Skills</h2>
                             </div>
                         </div>
+                        <img src={`${javascript}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
+                        <img src={`${react}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>
                         <img src={`${mongo}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>
                         <img src={`${express}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
-                        <img src={`${react}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>
                         <img src={`${node}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
                         <img src={`${html}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>
                         <img src={`${css}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
                         <img src={`${bootstrap}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>
                         {/* <img src={`${cpp}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img> */}
                         {/* <img src={`${c}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img> */}
-                        <img src={`${javascript}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
                         {/* <img src={`${java}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img> */}
                         {/* <img src={`${aws}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img> */}
                         {/* <img src={`${mysql}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img> */}

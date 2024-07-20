@@ -14,8 +14,12 @@ function About(){
     <div className="about-desc">
         <span className="heading-meta">About</span>
         <h2 className="colorlib-heading">Who Am I?</h2>
-        <h4>I have 2 years of experience in React.js development.</h4>
-        <h4>I love exploring new technologies and am often amazed by the progress we as a human species have made in recent years.</h4>
+       
+        <h4> Experienced professional with over three years in design and integration.</h4>
+        <h4>
+         Proficient in JavaScript, React, Node, HTML, CSS, and MongoDB. Seeking a position as a Full Stack Developer to leverage skills for impactful contributions.
+
+        </h4>
     </div>
 </div>
 

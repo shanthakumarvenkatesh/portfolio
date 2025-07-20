@@ -1,6 +1,6 @@
 import React from "react";
 import Shanth from './images/shanth.jpeg';
-import Resume from "./images/shantha_kumar.pdf"
+import Resume from "./images/Shanthakumar_Updated_Resume.docx"
 
 function Nav() {
 

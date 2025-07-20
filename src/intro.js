@@ -2,7 +2,7 @@ import React from "react";
 import bg1 from './images/key.jpg';
 import bg2 from './images/bg2.jpg';
 import bg3 from './images/bg3.jpg';
-import Resume from "./images/shantha_kumar.pdf"
+import Resume from "./images/Shanthakumar_Updated_Resume.docx"
 
 
 function Introduction(){
